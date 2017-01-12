@@ -12,6 +12,7 @@ namespace GitHub1
         {
             Console.WriteLine("Hello World in Development !!!");
             Console.WriteLine("Hello World in Master !!!");
+            Console.WriteLine("En tredje Tekst !!!");
         }
     }
 }
